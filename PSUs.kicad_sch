@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "Compute Module 4 IO Board - PSUs")
-    (company "© 2020-2022 Raspberry Pi Ltd (formerly Raspberry Pi (Trading) Ltd.)")
-    (comment 1 "www.raspberrypi.com")
+    (title "Bitcart")
+    (date "2023-09-15")
+    (rev "1")
   )
 
   (lib_symbols

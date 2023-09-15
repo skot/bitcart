@@ -5,10 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "Compute Module 4 IO Board - Top Level")
+    (title "Bitcart")
+    (date "2023-09-15")
     (rev "1")
-    (company "© 2020-2022 Raspberry Pi Ltd (formerly Raspberry Pi (Trading) Ltd.)")
-    (comment 1 "www.raspberrypi.com")
   )
 
   (lib_symbols
@@ -228,8 +227,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a501555e-bbc7-4b58-ad89-28a0cd3dd6d0)
   )
-  (text "Connectors\n-------\nHDMI 0\nHDMI 1\nCSI 0\nCSI 1\nDSI 0\nDSI 1"
-    (at 144.78 57.15 0)
+  (text "Connectors\n-------\nDSI 0" (at 144.78 47.625 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid db83d0af-e085-4050-8496-fa2ebdecbd62)
   )
@@ -788,7 +786,7 @@
 
   (sheet (at 81.28 39.878) (size 24.13 28.702)
     (stroke (width 0.1524) (type solid) (color 132 0 132 1))
-    (fill (color 255 255 255 0.0000))
+    (fill (color 255 255 194 1.0000))
     (uuid 00000000-0000-0000-0000-00005e072e02)
     (property "Sheetname" "USB2-HUB" (at 81.28 39.2425 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
