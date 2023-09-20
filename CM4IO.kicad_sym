@@ -116,10 +116,10 @@
         (number "6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "AP2553W6_0_1"
+    (symbol "AP2553W6_1_1"
       (rectangle (start -6.35 5.08) (end 5.08 -5.08)
         (stroke (width 0) (type default))
-        (fill (type none))
+        (fill (type background))
       )
     )
   )
@@ -1221,10 +1221,10 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "FSUSB42MX_0_1"
+    (symbol "FSUSB42MX_1_1"
       (rectangle (start -8.89 19.05) (end 6.35 -1.27)
         (stroke (width 0) (type default))
-        (fill (type none))
+        (fill (type background))
       )
     )
   )
