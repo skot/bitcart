@@ -32,16 +32,6 @@
       )
       (polyline
         (pts
-          (xy -3.81 2.54)
-          (xy -3.81 -2.54)
-          (xy 2.54 0)
-          (xy -3.81 2.54)
-        )
-        (stroke (width 0.254) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
           (xy -1.905 0.635)
           (xy -2.54 0)
           (xy -1.905 -0.635)
@@ -53,6 +43,16 @@
       )
     )
     (symbol "74LVC1G07_copy_1_1"
+      (polyline
+        (pts
+          (xy -3.81 2.54)
+          (xy -3.81 -2.54)
+          (xy 2.54 0)
+          (xy -3.81 2.54)
+        )
+        (stroke (width 0.254) (type default))
+        (fill (type background))
+      )
       (pin input line (at -7.62 0 0) (length 3.81)
         (name "~" (effects (font (size 1.016 1.016))))
         (number "2" (effects (font (size 1.016 1.016))))
