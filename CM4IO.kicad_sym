@@ -136,13 +136,11 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "AP64351_0_1"
+    (symbol "AP64351_1_1"
       (rectangle (start -5.08 5.08) (end 6.35 -7.62)
         (stroke (width 0) (type default))
-        (fill (type none))
+        (fill (type background))
       )
-    )
-    (symbol "AP64351_1_1"
       (pin passive line (at -7.62 2.54 0) (length 2.54)
         (name "BST" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
@@ -2484,10 +2482,10 @@
         (number "B9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "PCIe-x1_0_1"
+    (symbol "PCIe-x1_1_1"
       (rectangle (start -13.97 35.56) (end 5.08 -12.7)
         (stroke (width 0) (type default))
-        (fill (type none))
+        (fill (type background))
       )
     )
   )
