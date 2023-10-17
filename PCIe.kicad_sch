@@ -1265,7 +1265,7 @@
   (symbol (lib_id "power:GND") (at 130.81 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005d08bc2b)
-    (property "Reference" "#PWR015" (at 130.81 86.36 0)
+    (property "Reference" "#PWR038" (at 130.81 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 130.937 84.4042 0)
@@ -1281,7 +1281,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "#PWR015") (unit 1)
+          (reference "#PWR038") (unit 1)
         )
       )
     )
@@ -1290,7 +1290,7 @@
   (symbol (lib_id "power:GND") (at 52.324 142.494 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005d2a86bc)
-    (property "Reference" "#PWR04" (at 52.324 148.844 0)
+    (property "Reference" "#PWR037" (at 52.324 148.844 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 52.451 146.8882 0)
@@ -1306,7 +1306,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "#PWR04") (unit 1)
+          (reference "#PWR037") (unit 1)
         )
       )
     )
@@ -1315,7 +1315,7 @@
   (symbol (lib_id "Device:C") (at 208.534 120.904 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005d2bde55)
-    (property "Reference" "C30" (at 211.455 119.7356 0)
+    (property "Reference" "C34" (at 211.455 119.7356 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u" (at 211.455 122.047 0)
@@ -1350,7 +1350,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "C30") (unit 1)
+          (reference "C34") (unit 1)
         )
       )
     )
@@ -1359,7 +1359,7 @@
   (symbol (lib_id "Device:C") (at 218.694 120.904 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005d2be240)
-    (property "Reference" "C31" (at 221.615 119.7356 0)
+    (property "Reference" "C35" (at 221.615 119.7356 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u" (at 221.615 122.047 0)
@@ -1394,7 +1394,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "C31") (unit 1)
+          (reference "C35") (unit 1)
         )
       )
     )
@@ -1403,7 +1403,7 @@
   (symbol (lib_id "Device:C") (at 228.854 120.904 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005d2be48f)
-    (property "Reference" "C32" (at 231.775 119.7356 0)
+    (property "Reference" "C36" (at 231.775 119.7356 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u" (at 231.775 122.047 0)
@@ -1438,7 +1438,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "C32") (unit 1)
+          (reference "C36") (unit 1)
         )
       )
     )
@@ -1447,7 +1447,7 @@
   (symbol (lib_id "Device:C") (at 237.744 120.904 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005d2beaa1)
-    (property "Reference" "C33" (at 240.665 119.7356 0)
+    (property "Reference" "C37" (at 240.665 119.7356 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u" (at 240.665 122.047 0)
@@ -1482,7 +1482,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "C33") (unit 1)
+          (reference "C37") (unit 1)
         )
       )
     )
@@ -1491,7 +1491,7 @@
   (symbol (lib_id "power:GND") (at 162.56 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005d338c24)
-    (property "Reference" "#PWR020" (at 162.56 86.36 0)
+    (property "Reference" "#PWR040" (at 162.56 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 162.687 84.4042 0)
@@ -1507,7 +1507,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "#PWR020") (unit 1)
+          (reference "#PWR040") (unit 1)
         )
       )
     )
@@ -1516,7 +1516,7 @@
   (symbol (lib_id "Device:R_US") (at 183.134 147.574 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e489e2a)
-    (property "Reference" "R30" (at 184.912 146.4056 0)
+    (property "Reference" "R22" (at 184.912 146.4056 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "15K 1%" (at 184.912 148.717 0)
@@ -1551,7 +1551,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "R30") (unit 1)
+          (reference "R22") (unit 1)
         )
       )
     )
@@ -1560,7 +1560,7 @@
   (symbol (lib_id "Device:C") (at 172.974 148.844 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e489e44)
-    (property "Reference" "C64" (at 175.514 146.304 0)
+    (property "Reference" "C32" (at 175.514 146.304 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1.2nF" (at 175.514 151.384 0)
@@ -1592,7 +1592,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "C64") (unit 1)
+          (reference "C32") (unit 1)
         )
       )
     )
@@ -1601,7 +1601,7 @@
   (symbol (lib_id "Device:C") (at 163.449 145.034 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e489e7e)
-    (property "Reference" "C63" (at 165.989 142.494 0)
+    (property "Reference" "C31" (at 165.989 142.494 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "nf" (at 165.989 147.574 0)
@@ -1633,7 +1633,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "C63") (unit 1)
+          (reference "C31") (unit 1)
         )
       )
     )
@@ -1642,7 +1642,7 @@
   (symbol (lib_id "CM4IO:AP64351") (at 146.304 131.064 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e489ea5)
-    (property "Reference" "U15" (at 146.939 121.8184 0)
+    (property "Reference" "U8" (at 146.939 121.8184 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "AP64501SP-13" (at 146.939 124.1298 0)
@@ -1672,7 +1672,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "U15") (unit 1)
+          (reference "U8") (unit 1)
         )
       )
     )
@@ -1731,7 +1731,7 @@
   (symbol (lib_id "Device:C") (at 136.779 145.034 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e489eff)
-    (property "Reference" "C62" (at 139.319 142.494 0)
+    (property "Reference" "C30" (at 139.319 142.494 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1uF" (at 139.319 147.574 0)
@@ -1772,7 +1772,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "C62") (unit 1)
+          (reference "C30") (unit 1)
         )
       )
     )
@@ -1781,7 +1781,7 @@
   (symbol (lib_id "power:GND") (at 145.034 153.924 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e489f64)
-    (property "Reference" "#PWR016" (at 145.034 160.274 0)
+    (property "Reference" "#PWR039" (at 145.034 160.274 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 145.161 158.3182 0)
@@ -1797,7 +1797,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "#PWR016") (unit 1)
+          (reference "#PWR039") (unit 1)
         )
       )
     )
@@ -1806,7 +1806,7 @@
   (symbol (lib_id "Device:R_US") (at 138.049 117.094 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e489f79)
-    (property "Reference" "R22" (at 136.779 113.919 90)
+    (property "Reference" "R19" (at 136.779 113.919 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10R" (at 136.779 112.014 90)
@@ -1841,7 +1841,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "R22") (unit 1)
+          (reference "R19") (unit 1)
         )
       )
     )
@@ -1850,7 +1850,7 @@
   (symbol (lib_id "Device:C") (at 193.294 128.524 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e489fb7)
-    (property "Reference" "C65" (at 195.834 125.984 0)
+    (property "Reference" "C33" (at 195.834 125.984 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "nf" (at 195.834 131.064 0)
@@ -1882,7 +1882,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "C65") (unit 1)
+          (reference "C33") (unit 1)
         )
       )
     )
@@ -1891,7 +1891,7 @@
   (symbol (lib_id "pspice:INDUCTOR") (at 174.244 117.094 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e489fd5)
-    (property "Reference" "L3" (at 174.244 111.633 0)
+    (property "Reference" "L1" (at 174.244 111.633 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SRN6045TA-3R3Y" (at 174.244 113.9444 0)
@@ -1914,7 +1914,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "L3") (unit 1)
+          (reference "L1") (unit 1)
         )
       )
     )
@@ -1923,7 +1923,7 @@
   (symbol (lib_id "Device:R_US") (at 172.974 141.224 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e4b7379)
-    (property "Reference" "R23" (at 174.752 140.0556 0)
+    (property "Reference" "R20" (at 174.752 140.0556 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "12K 1%" (at 174.752 142.367 0)
@@ -1955,7 +1955,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "R23") (unit 1)
+          (reference "R20") (unit 1)
         )
       )
     )
@@ -1964,7 +1964,7 @@
   (symbol (lib_id "Device:R_US") (at 183.134 128.524 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e4be298)
-    (property "Reference" "R24" (at 173.99 127 0)
+    (property "Reference" "R21" (at 173.99 127 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47K 1%" (at 173.99 129.54 0)
@@ -1999,7 +1999,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "R24") (unit 1)
+          (reference "R21") (unit 1)
         )
       )
     )
@@ -2008,7 +2008,7 @@
   (symbol (lib_id "power:GND") (at 208.534 127.254 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e50d5fe)
-    (property "Reference" "#PWR022" (at 208.534 133.604 0)
+    (property "Reference" "#PWR041" (at 208.534 133.604 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 208.661 131.6482 0)
@@ -2024,7 +2024,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "#PWR022") (unit 1)
+          (reference "#PWR041") (unit 1)
         )
       )
     )
@@ -2033,7 +2033,7 @@
   (symbol (lib_id "Connector:TestPoint") (at 237.744 117.094 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005e591faa)
-    (property "Reference" "TP1" (at 239.2172 114.0968 0)
+    (property "Reference" "TP5" (at 239.2172 114.0968 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (at 239.2172 116.4082 0)
@@ -2061,7 +2061,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "TP1") (unit 1)
+          (reference "TP5") (unit 1)
         )
       )
     )
@@ -2070,7 +2070,7 @@
   (symbol (lib_id "Device:CP") (at 253.9492 120.904 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005eadd496)
-    (property "Reference" "C45" (at 256.9466 119.7614 0)
+    (property "Reference" "C38" (at 256.9466 119.7614 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100uF" (at 256.946 122.047 0)
@@ -2096,7 +2096,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "C45") (unit 1)
+          (reference "C38") (unit 1)
         )
       )
     )
@@ -2105,7 +2105,7 @@
   (symbol (lib_id "Device:C") (at 127.254 134.874 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005eb74fe8)
-    (property "Reference" "C44" (at 130.175 133.7056 0)
+    (property "Reference" "C28" (at 130.175 133.7056 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u 35v" (at 123.1392 141.605 0)
@@ -2140,7 +2140,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "C44") (unit 1)
+          (reference "C28") (unit 1)
         )
       )
     )
@@ -2149,7 +2149,7 @@
   (symbol (lib_id "Device:C") (at 114.808 134.874 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005eb78a39)
-    (property "Reference" "C43" (at 117.729 133.7056 0)
+    (property "Reference" "C27" (at 117.729 133.7056 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u 35v" (at 110.6932 141.6812 0)
@@ -2184,7 +2184,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "C43") (unit 1)
+          (reference "C27") (unit 1)
         )
       )
     )
@@ -2193,7 +2193,7 @@
   (symbol (lib_id "Device:C") (at 103.124 134.874 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005eb79355)
-    (property "Reference" "C28" (at 106.045 133.7056 0)
+    (property "Reference" "C26" (at 106.045 133.7056 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u 35v" (at 99.0854 141.8336 0)
@@ -2228,7 +2228,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "C28") (unit 1)
+          (reference "C26") (unit 1)
         )
       )
     )
@@ -2237,7 +2237,7 @@
   (symbol (lib_id "Device:C") (at 91.44 134.874 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005eb7a15f)
-    (property "Reference" "C27" (at 94.361 133.7056 0)
+    (property "Reference" "C25" (at 94.361 133.7056 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u 35v" (at 87.3252 141.9606 0)
@@ -2272,7 +2272,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "C27") (unit 1)
+          (reference "C25") (unit 1)
         )
       )
     )
@@ -2281,7 +2281,7 @@
   (symbol (lib_id "Device:C") (at 78.232 134.874 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005eb7b5fb)
-    (property "Reference" "C26" (at 81.153 133.7056 0)
+    (property "Reference" "C24" (at 81.153 133.7056 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u 35v" (at 74.1426 141.9606 0)
@@ -2316,7 +2316,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "C26") (unit 1)
+          (reference "C24") (unit 1)
         )
       )
     )
@@ -2325,7 +2325,7 @@
   (symbol (lib_id "Device:C") (at 65.786 134.874 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005eb7c833)
-    (property "Reference" "C25" (at 68.707 133.7056 0)
+    (property "Reference" "C23" (at 68.707 133.7056 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u 35v" (at 61.6966 142.0368 0)
@@ -2360,7 +2360,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "C25") (unit 1)
+          (reference "C23") (unit 1)
         )
       )
     )
@@ -2369,7 +2369,7 @@
   (symbol (lib_id "CM4IO:PCIe-x1") (at 151.13 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00000000-0000-0000-0000-00005ed4ec99)
-    (property "Reference" "J12" (at 154.94 29.21 0)
+    (property "Reference" "J11" (at 154.94 29.21 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10018783-11200TLF" (at 146.685 28.6004 0)
@@ -2426,7 +2426,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "J12") (unit 1)
+          (reference "J11") (unit 1)
         )
       )
     )
@@ -2435,7 +2435,7 @@
   (symbol (lib_id "power:GND") (at 253.9492 127.254 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 36f92306-8078-43b8-b200-c08703b2f777)
-    (property "Reference" "#PWR029" (at 253.9492 133.604 0)
+    (property "Reference" "#PWR042" (at 253.9492 133.604 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 254.0762 131.6482 0)
@@ -2451,7 +2451,7 @@
     (instances
       (project "bitcart"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/00000000-0000-0000-0000-00005ed4bb5b"
-          (reference "#PWR029") (unit 1)
+          (reference "#PWR042") (unit 1)
         )
       )
     )
