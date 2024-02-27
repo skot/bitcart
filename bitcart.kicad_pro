@@ -46,7 +46,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.39999999999999997
         }
       },
       "diff_pair_dimensions": [
@@ -931,10 +931,6 @@
     [
       "00000000-0000-0000-0000-00005cff706a",
       "CM4_GPIO ( Ethernet, GPIO, SDCARD)"
-    ],
-    [
-      "00000000-0000-0000-0000-00005ed4bb5b",
-      "PCIe-connector"
     ],
     [
       "00000000-0000-0000-0000-00005d31f999",
