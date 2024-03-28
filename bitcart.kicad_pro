@@ -458,8 +458,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "bitcart"
+    ],
+    "pinned_symbol_libs": [
+      "bitcart"
+    ]
   },
   "meta": {
     "filename": "bitcart.kicad_pro",
@@ -953,10 +957,6 @@
     [
       "00000000-0000-0000-0000-00005d31f999",
       "PSUs"
-    ],
-    [
-      "b61e4f2d-ce9e-412d-af58-c652a832eb5d",
-      "hashboards"
     ]
   ],
   "text_variables": {}

@@ -11751,114 +11751,6 @@
 		)
 		(uuid "0e37a1ae-bf06-4c70-ae4c-e7cee553b0b3")
 	)
-	(hierarchical_label "RXD4"
-		(shape input)
-		(at 25.4 67.31 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1d05e2c4-c6f0-4c5c-9a99-a6d1bdd90f16")
-	)
-	(hierarchical_label "TXD5"
-		(shape output)
-		(at 114.3 57.15 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "551f916a-b7f4-42a8-824a-0e1d621d2ada")
-	)
-	(hierarchical_label "RST0"
-		(shape input)
-		(at 25.4 80.01 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "67402b7b-1a62-4d52-aba6-3c227f64603e")
-	)
-	(hierarchical_label "TXD0"
-		(shape output)
-		(at 114.3 87.63 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "747895c6-f805-42fc-acb3-a130e0ef55ae")
-	)
-	(hierarchical_label "PLUG3"
-		(shape input)
-		(at 25.4 54.61 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7e435974-e3fe-4bb7-a672-27e1004ceeaa")
-	)
-	(hierarchical_label "RXD3"
-		(shape input)
-		(at 25.4 59.69 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a6ff4f6f-8003-4d14-b0f9-a318f00145cc")
-	)
-	(hierarchical_label "TXD4"
-		(shape output)
-		(at 114.3 67.31 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b1c7c895-70f7-417d-b7b8-8819b7132cf8")
-	)
-	(hierarchical_label "RST3"
-		(shape input)
-		(at 114.3 64.77 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b38c09f3-3f5d-4339-bcb4-25aeb57bc107")
-	)
-	(hierarchical_label "PLUG4"
-		(shape input)
-		(at 25.4 72.39 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c9091bcc-9cda-4ee7-b990-eb134848eeda")
-	)
 	(hierarchical_label "SCL0"
 		(shape output)
 		(at 25.4 118.11 180)
@@ -11907,18 +11799,6 @@
 		)
 		(uuid "d44cf594-638f-424d-936a-6e9ed7c314ce")
 	)
-	(hierarchical_label "RST4"
-		(shape input)
-		(at 25.4 64.77 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d6139cce-f0bc-4524-987c-537b8314b231")
-	)
 	(hierarchical_label "nEXTRST"
 		(shape output)
 		(at 25.4 143.51 180)
@@ -11931,30 +11811,6 @@
 		)
 		(uuid "ebcfdf36-110d-4f79-9de0-e4fcd76c1d6e")
 	)
-	(hierarchical_label "RXD0"
-		(shape input)
-		(at 114.3 82.55 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f0efadea-026f-4647-b65f-c9d714103d4f")
-	)
-	(hierarchical_label "PLUG0"
-		(shape input)
-		(at 114.3 54.61 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f0f5057d-00c4-4842-aa6a-a9ab4e443660")
-	)
 	(hierarchical_label "3V3"
 		(shape output)
 		(at 25.4 123.19 180)
@@ -11966,18 +11822,6 @@
 			(justify right)
 		)
 		(uuid "f90672d0-2ca8-4eaf-98ba-17042306fced")
-	)
-	(hierarchical_label "TXD3"
-		(shape output)
-		(at 25.4 85.09 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "fd1a47d1-572d-473e-a67d-79f9639f8094")
 	)
 	(symbol
 		(lib_id "bitcart:74LVC1G07")
